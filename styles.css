@@ -164,15 +164,19 @@ body {
     bottom: auto;
 }
 
-#red {
-    background-color: #e1b200;
+#one {
+    background-color: rgb(243, 142, 70);
     
 }
 
-#blue {
-    background-color: #182139;
+#two {
+    background-color: rgb(238, 115, 48);
 }
 
-#gold {
-    background-color: #aba597;
+#three {
+    background-color: rgb(236, 95, 43);
+}
+
+#four {
+    background-color: rgb(139, 73, 27);
 }
